@@ -1,0 +1,87 @@
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\EntityFramework.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\Formation.WPF.exe.config
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\Formation.WPF.exe
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\Formation.WPF.pdb
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\EntityFramework.xml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\App.baml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\App.g.cs
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.cache
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.lref
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\MainWindow.baml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.g.resources
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.Properties.Resources.resources
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.csproj.GenerateResource.Cache
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.exe
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.pdb
+C:\Users\Sony-Vaio\documents\visual studio 2013\Projects\Formation.WPF\Formation.WPF\obj\Debug\Formation.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.exe.config
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.exe
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.pdb
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.exe
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.pdb
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.xml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\App.baml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\App.g.cs
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.cache
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.lref
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\MainWindow.baml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.g.resources
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.Properties.Resources.resources
+C:\Users\Sony-Vaio\Desktop\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.csproj.GenerateResource.Cache
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.exe.config
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.exe
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.pdb
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.exe
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\Formation.WPF.pdb
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\FirstFloor.ModernUI.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\mscorlib.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.xml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\FirstFloor.ModernUI.xml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\fr\EntityFramework.resources.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\normidna.nlp
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\normnfc.nlp
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\normnfd.nlp
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\normnfkc.nlp
+D:\New Folder (4)\MVVM Demo\Formation.WPF\bin\Debug\normnfkd.nlp
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.csprojResolveAssemblyReference.cache
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\App.baml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\MainWindow.g.cs
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\App.g.cs
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.cache
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF_MarkupCompile.lref
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\MainWindow.baml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Themes\Generic.baml
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.g.resources
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.Properties.Resources.resources
+D:\New Folder (4)\MVVM Demo\Formation.WPF\obj\Debug\Formation.WPF.csproj.GenerateResource.Cache
